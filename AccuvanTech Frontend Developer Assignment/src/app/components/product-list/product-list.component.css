@@ -1,0 +1,13 @@
+/* Product List Component styles */
+table {
+    width: 100%;
+  }
+  
+  .mat-header-cell, .mat-cell {
+    padding: 8px;
+  }
+  
+  .mat-icon-button {
+    color: #3f51b5; /* Primary color */
+  }
+  

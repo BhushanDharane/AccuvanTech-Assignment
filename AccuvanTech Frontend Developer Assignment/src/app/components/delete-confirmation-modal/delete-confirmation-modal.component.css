@@ -1,0 +1,14 @@
+/* Delete Confirmation Modal Component styles */
+.mat-dialog-container {
+    width: 300px;
+  }
+  
+  mat-dialog-content {
+    margin-bottom: 20px;
+  }
+  
+  mat-dialog-actions {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
